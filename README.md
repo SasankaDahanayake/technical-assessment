@@ -9,7 +9,7 @@ Install Expo CLI
 (`npm install -g expo-cli`)
 
 Clone the project
-(`git clone https://github.com/SasankaDahanayake/technical-assessment`)
+(`git clone https://github.com/SasankaDahanayake/technical-assessment.git`)
 
 Install dependencies
 (`npm install`)
